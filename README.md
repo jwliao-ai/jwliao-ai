@@ -2,7 +2,7 @@
 
 I'm an undergraduate student majoring in AI at Institute of Artificial Intelligence and Robotics (IAIR) at Xi'an Jiaotong University. I was a visiting student at University of California, Berkeley 2023 Fall.
 
-I was once a research assistant intern on Deep Reinforcement Learning, RLHF and Federated Learning in Ju Ren's group at Depart. of Computer Science and Technology, Tsinghua University from Sep. 2023 to Apr. 2024. Great thanks to my advisors Prof. Ren, Sheng Yue and Nan Qiao for helping me with my academic research.
+I was once a research assistant intern on Deep Reinforcement Learning, RLHF and Federated Learning in Ju Ren's group at Depart. of Computer Science and Technology, Tsinghua University from Sep. 2023 to Apr. 2024.
 
 I'm interested in Deep Reinforcement Learning including RLHF, Large Decision Models and Embodied AI.
 
