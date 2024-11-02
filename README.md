@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm an undergrad majoring in AI at Institute of Artificial Intelligence and Robotics (IAIR) at Xi'an Jiaotong University. I was a visiting student at University of California, Berkeley 2023 Fall.
+I'm an senior undergrad majoring in AI at Institute of Artificial Intelligence and Robotics (IAIR) in Xi'an Jiaotong University. I was a visiting student at University of California, Berkeley 2023 Fall.
 
-Currently I am an RA on Agent tech advised by Weinan Zhang at APEX at Shanghai Jiao Tong University.
+Currently I am an RA on RL and LLM-based Agent advised by Weinan Zhang at APEX in Shanghai Jiao Tong University.
 
 I was once a research assistant intern on Deep Reinforcement Learning, RLHF and Federated Learning in Ju Ren's group at Depart. of Computer Science and Technology, Tsinghua University from Sep. 2023 to Apr. 2024.
 
